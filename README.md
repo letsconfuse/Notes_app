@@ -44,5 +44,5 @@ Feel free to submit **issues** or **pull requests** to improve the project!
 
 ---
 ### 👨‍💻 Author
-[Profile](https://github.com/lestsconfuse)
+[Profile](https://github.com/letsconfuse)
 
